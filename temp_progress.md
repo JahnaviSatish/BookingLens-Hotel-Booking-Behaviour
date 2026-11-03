@@ -51,3 +51,8 @@ REPORT OF WHAT WAS DONE
 
  #################################################################################
 PERSON 2
+
+# PERSON 4
+hi guys im peter 4 and i added the logistic regression file and the "advanced models" file 
+so logistic regression's recall values are a bit gay and accuracy was around 70-80
+so i tried if we can kinda make this better and in the advanced models file we run stuff like random forest and gradient boosting. Now the accuracy here is max 83ish but the AUC-ROC values are way better and uh recall's better too. I shall begin my powerbi work soon until then gudnight! (idek if anyones reading all this) (if yes free chocolate one day ) (i didnt tell you which day)
